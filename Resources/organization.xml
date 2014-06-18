@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Organization>
+<name>Legendary Code</name>
+<address>
+  <street-address>E Capitol St NE &amp; 1st St</street-address>
+  <locality>Washington</locality>
+  <region>DC</region>
+  <postal-code>20002</postal-code>
+</address>
+<geo>
+    <latitude>38.5323 N</latitude>  
+    <longitude>77.0040 W</longitude>  
+</geo>  
+<tel>555-555-5555</tel>
+<url>http://www.legendarycode.com</url>
+</Organization>
